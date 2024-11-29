@@ -26,7 +26,7 @@ Practice in website layout using regular html, css, js. The site was made using 
 
 ### Основні функції
 
-- Возможность ознакомиться с контентом сайта
+- Можливість ознайомитися з контентом сайту
 
 ### Відомі проблеми
 
